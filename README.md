@@ -10,7 +10,7 @@ My focus is on:
 ## Published Articles
 
 - **Common Crypto Scams Beginners Should Avoid**  
-  Medium: [https://medium.com/@muyunihorward]
+  https://medium.com/@muyunihorward/common-crypto-scams-beginners-should-avoid
 
 ## About Me
 
