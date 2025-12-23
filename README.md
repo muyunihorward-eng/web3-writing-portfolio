@@ -1,20 +1,28 @@
-# web3-writing-portfolio
-This repository contains my published and draft articles on blockchain, cryptocurrency, and Web3 education.
+# Web3 & Blockchain Writing Portfolio
 
-My focus is on:
-- Beginner-friendly explanations
-- Crypto safety and scam awareness
-- Ethical, non-hype Web3 content
-- Clear technical writing
+Independent technical writing focused on blockchain fundamentals, crypto security, and beginner education.
+This repository serves as an archive and reference for published articles.
 
 ## Published Articles
 
 - **Common Crypto Scams Beginners Should Avoid**  
-  https://medium.com/@muyunihorward/common-crypto-scams-beginners-should-avoid
+  Medium: https://medium.com/@yourusername/common-crypto-scams-beginners-should-avoid
 
-## About Me
+- **How Crypto Wallets Work (A Beginner-Friendly Explanation)**  
+  Medium: https://medium.com/@muyunihorward/how-crypto-wallets-work-a-beginner-friendly-explanation-a60dccd769e4
 
-I am a technical writer with a background in software development and a growing focus on Web3 and blockchain education.
+## Topics Covered
+
+- Blockchain fundamentals
+- Crypto wallets and security
+- Scam awareness and user protection
+- Web3 onboarding concepts
+
+## About the Author
+
+Horward Muyuni is an independent technical writer with a background in software development.
+He focuses on clear, beginner-friendly explanations of complex technologies, with an emphasis on
+security, responsible usage, and education.
 
 📩 Available for freelance and contract writing  
 📧 Email: muyunihorward@gmail.com
