@@ -1,0 +1,78 @@
+Gas Fees, Confirmations, and Common Mistakes
+Sending crypto feels unnecessarily stressful for many beginners. The process of copying an address, hitting send, and then… waiting is unbearable for beginners. And in the crypto world sometimes the transaction is fast, sometimes it is really slow. Sometimes it fails. And almost always, there is this confusion around fees.
+Understanding how crypto transactions work removes a lot of that stress. Once you know what is actually happening in the background, the process becomes predictable, less stressful and much safer.
+This article explains crypto transactions in plain language — without hype, and without assuming prior knowledge of the subject.
+What exactly is a Crypto Transaction?
+At its core, a crypto transaction is simply a request to update a blockchain ledger.
+You are not “sending coins” the way you send money through a bank or any similar financial institution. Instead, you are telling the network or wallet that:
+“I am authorizing this amount to move from my address to another address.”
+That authorization is verified, recorded, and permanently stored on the blockchain.
+In reality, nothing moves physically. Only ownership is updated on the blockchain.
+The Role of Your Wallet
+Your wallet does three very important things during a transaction:
+1.	It creates the transaction
+2.	It signs it using your private key
+3.	It broadcasts it to the network
+It is important to point out here that your private key never leaves your wallet.
+What the network/blockchain sees is a cryptographic proof that you are allowed to make that transaction. This is why whoever controls the private key controls the funds.
+What Happens After You Click “Send”
+Once your transaction is broadcast, it enters a pool of pending transactions (often called the mempool).
+From there:
+•	Validators or miners pick transactions from the pool
+•	They prioritize transactions that offer higher fees
+•	Once included in a block, the transaction is considered confirmed. (Now is important to briefly explain what a block is. A block is simply a like a page in a ledger book which records transaction. The beauty of blocks is that nobody can make changes to the block with anyone noticing). 
+The entire process is automatic and decentralized. There is no customer support desk to review your transactions.
+What Are Gas Fees and Why Do They Exist?
+Gas fees are like paying for postage or shipping to get your transaction processed.
+For example, when you want to send crypto, you are asking thousands of computers around the world to verify and record your transaction. Those computers use electricity and computing power to do this work, so they charge a small fee.
+But why is it called "gas": Just like your car needs gas to run, the blockchain/network needs "fuel" (the fees) to process transactions.
+Gas fees are not random charges. They exist for two main reasons:
+1.	To pay validators/miners for processing transactions
+2.	To prevent spam and abuse of the network
+Each blockchain has its own fee model, for example:
+•	Ethereum uses gas measured in units
+•	Bitcoin uses transaction size (bytes)
+•	Other chains have fixed or very low fees
+When the network is busy, fees rise. When it is quiet, fees fall.
+Each time you are sending funds, you should always remember that you are competing with other users for limited block space.
+Why Transactions Sometimes Fail
+A transaction can fail for several reasons:
+•	The gas fee was set too low
+•	The network or blockchain becomes congested
+•	A smart contract interaction reverted
+•	The wallet ran out of gas in the middle of an execution
+When a transaction fails, most cases it means that:
+•	The transaction does not go through
+•	Fees may still be partially consumed
+•	Funds remain in your wallet
+This is frustrating and frightening, however, this is not theft it is just how decentralized systems work.
+Confirmations: When Is a Transaction “Final”?
+In simple terms, a confirmation is like getting multiple witnesses to verify that your transaction actually happened.
+For example, imagine you hand someone $20 in a crowded room. One person sees it and says "yes, I saw that $20" – that becomes 1 confirmation. Then another person says "I saw it too" – that becomes 2 confirmations. The more people who confirm they saw it, the more certain everyone is that it really happened and cannot be disputed. The blockchain is a crowded place and you need witnesses.
+
+Now, after hitting the ‘send’ button, a transaction is usually shown as ‘pending’, then ‘confirmed’.
+One confirmation means the transaction was included in a block. More confirmations mean it is increasingly difficult to reverse. 
+Different platforms (or cryptos) require different confirmation counts:
+•	Exchanges often require many confirmations
+•	Personal wallets usually consider one enough
+Once confirmed, a transaction cannot be reversed. This is a feature but it is also a risk.
+Common Mistakes Beginners Make
+Here are some mistakes that cause most losses and stress for beginners:
+•	Sending to the Wrong Network
+Sending tokens to the wrong blockchain (e.g., Ethereum vs BNB Chain) can permanently lock funds.
+•	Using the Wrong Address Format
+Not all addresses are interchangeable, even if they look similar.
+•	Ignoring Fees
+Setting fees too low can cause stuck or failed transactions.
+•	Rushing
+Most crypto mistakes happen when people rush or panic. Take your time to verify every detail because there is no “undo” button on the blockchain.
+How to Use Crypto Safely as a Beginner
+•	Always double-check addresses
+•	Start with small test transactions
+•	Learn the network you are using
+•	Avoid peak congestion times when possible
+•	Never trust anyone asking you to “speed up” a transaction for a fee
+When working on the blockchain, patience and understanding are your best security tools.
+Final Thoughts
+Crypto transactions are not complicated — they are just handled differently from traditional financial transactions. Of course there are similarities but they are different.
+Once you understand gas fees, confirmations, and how wallets sign transactions, much of the stress and fear disappears. What remains is responsibility. In crypto, you are your own bank, and that requires caution. And remember, education is the best protection against mistakes and scams.
