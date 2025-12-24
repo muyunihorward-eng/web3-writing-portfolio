@@ -11,7 +11,7 @@ This repository serves as an archive and reference for published articles.
 - **How Crypto Wallets Work (A Beginner-Friendly Explanation)**  
   Medium: https://medium.com/@muyunihorward/how-crypto-wallets-work-a-beginner-friendly-explanation-a60dccd769e4
 
-- **How Crypto Transactions Work** 
+- **How Crypto Transactions Work**
   Medium: https://medium.com/@muyunihorward/how-crypto-transactions-work-d58a5a887599
 
 ## Topics Covered
