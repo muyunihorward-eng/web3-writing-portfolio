@@ -14,6 +14,9 @@ This repository serves as an archive and reference for published articles.
 - **How Crypto Transactions Work**
   Medium: https://medium.com/@muyunihorward/how-crypto-transactions-work-d58a5a887599
 
+- **How blockchain Technology is Changing Digital Business**
+  Medium: https://medium.com/@muyunihorward/how-blockchain-technology-is-changing-digital-business-b7fee73b5981
+
 ## Topics Covered
 
 - Blockchain fundamentals
