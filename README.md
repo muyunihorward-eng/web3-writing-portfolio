@@ -33,5 +33,10 @@ Horward Muyuni is an independent technical writer with a background in software 
 He focuses on clear, beginner-friendly explanations of complex technologies, with an emphasis on
 security, responsible usage, and education.
 
-📩 Available for freelance and contract writing  
+## Professional Services
+I am available for freelance and contract work related to:
+- Web3 and blockchain technical writing
+- Documentation and onboarding content
+- Content review and simplification
+
 📧 Email: muyunihorward@gmail.com
