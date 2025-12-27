@@ -17,6 +17,9 @@ This repository serves as an archive and reference for published articles.
 - **How blockchain Technology is Changing Digital Business**
   Medium: https://medium.com/@muyunihorward/how-blockchain-technology-is-changing-digital-business-b7fee73b5981
 
+- **Web3 skills that actually matter for digital professionals**
+  Medium: https://medium.com/@muyunihorward/web3-skills-that-actually-matter-for-digital-professionals-174c5ce09142
+
 ## Topics Covered
 
 - Blockchain fundamentals
