@@ -6,7 +6,7 @@ This repository serves as an archive and reference for published articles.
 ## Published Articles
 
 - **Common Crypto Scams Beginners Should Avoid**  
-  Medium: https://medium.com/@yourusername/common-crypto-scams-beginners-should-avoid
+  Medium: https://medium.com/@muyunihorward/common-crypto-scams-beginners-should-avoid
 
 - **How Crypto Wallets Work (A Beginner-Friendly Explanation)**  
   Medium: https://medium.com/@muyunihorward/how-crypto-wallets-work-a-beginner-friendly-explanation-a60dccd769e4
