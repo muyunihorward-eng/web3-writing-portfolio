@@ -20,6 +20,9 @@ This repository serves as an archive and reference for published articles.
 - **Web3 skills that actually matter for digital professionals**
   Medium: https://medium.com/@muyunihorward/web3-skills-that-actually-matter-for-digital-professionals-174c5ce09142
 
+- **The complete guide to crypto wallet secuiry from trust wallet and beyond**
+  Medium: https://medium.com/@muyunihorward/the-complete-guide-to-crypto-wallet-security-lessons-from-trust-wallet-and-beyond-eaa7d831596e
+
 ## Topics Covered
 
 - Blockchain fundamentals
