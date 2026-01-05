@@ -23,6 +23,9 @@ This repository serves as an archive and reference for published articles.
 - **The complete guide to crypto wallet security from trust wallet and beyond**
   Medium: https://medium.com/@muyunihorward/the-complete-guide-to-crypto-wallet-security-lessons-from-trust-wallet-and-beyond-eaa7d831596e
 
+- **The Fake proof of payment scam mechanics**
+  Medium: https://medium.com/@muyunihorward/the-fake-proof-of-payment-scam-mechanics-how-fraudsters-exploit-trust-in-digital-transactions-ecd396754975
+
 ## Topics Covered
 
 - Blockchain fundamentals
