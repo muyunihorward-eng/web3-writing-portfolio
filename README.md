@@ -26,6 +26,10 @@ This repository serves as an archive and reference for published articles.
 - **The Fake proof of payment scam mechanics**
   Medium: https://medium.com/@muyunihorward/the-fake-proof-of-payment-scam-mechanics-how-fraudsters-exploit-trust-in-digital-transactions-ecd396754975
 
+- **A personnal account: walking into the crypto world**
+  Substack: https://junkie2.substack.com/p/welcome-to-safe-in-web3
+
+  
 ## Topics Covered
 
 - Blockchain fundamentals
