@@ -29,6 +29,8 @@ This repository serves as an archive and reference for published articles.
 - **A personnal account: walking into the crypto world**
   Substack: https://junkie2.substack.com/p/welcome-to-safe-in-web3
 
+- **Your first step into Crypto**
+  Substack: https://junkie2.substack.com/p/your-first-step-into-crypto-a-beginners
   
 ## Topics Covered
 
