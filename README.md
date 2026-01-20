@@ -31,6 +31,9 @@ This repository serves as an archive and reference for published articles.
 
 - **Your first step into Crypto**
   Substack: https://junkie2.substack.com/p/your-first-step-into-crypto-a-beginners
+
+- **Wallet Security 101**
+  Substack: https://junkie2.substack.com/p/wallet-security-101-what-legitimate
   
 ## Topics Covered
 
