@@ -34,6 +34,9 @@ This repository serves as an archive and reference for published articles.
 
 - **Wallet Security 101**
   Substack: https://junkie2.substack.com/p/wallet-security-101-what-legitimate
+
+- **Can Crypto provide financial inclusion where banks have failed**
+  Medium: https://medium.com/@muyunihorward/can-crypto-provide-financial-inclusion-where-banks-have-failed-in-africa-cafcab89db76
   
 ## Topics Covered
 
